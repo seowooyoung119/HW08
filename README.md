@@ -1,6 +1,5 @@
 
 ### [8번 과제 링크](https://drive.google.com/drive/folders/1ro-FJkexqxK0bXNmIBt2BX0KoROOg8zd?usp=drive_link) 
-<br>
 ### [과제 시연 영상](https://blog.naver.com/seowool719/223943306472)
 
 # HW08 프로젝트 분석 보고서
